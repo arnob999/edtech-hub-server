@@ -1,0 +1,53 @@
+[
+    {
+        "course_id": "1",
+        "title": "JavaScript",
+        "pic": "https://www.split.io/wp-content/uploads/2020/03/javascript-logo.png",
+        "intro": "Learn the most popular programming language",
+        "details": " JavaScript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages. It is an interpreted programming language with object-oriented capabilities."
+    },
+    {
+        "course_id": "2",
+        "title": "React Native",
+        "pic": "https://clickysoft.com/wp-content/uploads/2022/02/React-native-Banner-min.png",
+        "intro": "Learn to develop Mobile app using react native",
+        "details": "React Native is great for mobile apps. It provides a slick, smooth and responsive user interface, while significantly reducing load time. It's also much faster and cheaper to build apps in React Native as opposed to building native ones, without the need to compromise on quality and functionality."
+    },
+    {
+        "course_id": "3",
+        "title": "Competitve Programming",
+        "pic": "https://avatars.githubusercontent.com/u/72343371?s=280&v=4",
+        "intro": "Enrich your programming skill",
+        "details": "Competitive programming is a mind sport usually held over the Internet or a local network, involving participants trying to program according to provided specifications. Contestants are referred to as sport programmers."
+    },
+    {
+        "course_id": "4",
+        "title": "Graphics Design",
+        "pic": "https://adsbeemedia.com/wp-content/uploads/2022/07/graphic-design-1.png",
+        "intro": "Portray your artistic mind",
+        "details": "Graphic design is a profession, academic discipline and applied art whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and of the fine arts."
+    },
+    {
+        "course_id": "5",
+        "title": "Learn Ruby Rails",
+        "pic": "https://www.devstree.com/wp-content/uploads/2022/10/RUBY-ON-RAILS-2.png",
+        "intro": "Learn RUBY to build web applications and is useful for other programming projects",
+        "details": "Ruby is an interpreted, high-level, general-purpose programming language which supports multiple programming paradigms. It was designed with an emphasis on programming productivity and simplicity. In Ruby, everything is an object, including primitive data types."
+    },
+    {
+        "cat_id": "6",
+        "course_id": "6",
+        "title": "Learn Digital Marketing",
+        "pic": "https://www.digitaltala.com/wp-content/uploads/2018/12/digital-tala-digital-marketing-copy1.png",
+        "intro": "Digital marketing is the act of promoting products and services through digital channels",
+        "details": "Digital marketing is the component of marketing that uses the Internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services. "
+    },
+    {
+        "cat_id": "6",
+        "course_id": "7",
+        "title": "Learn SEO",
+        "pic": "https://ocdigitalnetwork.com/wp-content/uploads/2018/04/h3-image-2.png",
+        "intro": "Make your site better for search engines. ",
+        "details": "Search engine optimization is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic rather than direct traffic or paid traffic."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "JavaScript"
+    },
+    {
+        "id": "2",
+        "name": "React Native"
+    },
+    {
+        "id": "3",
+        "name": "Competitve Programming"
+    },
+    {
+        "id": "4",
+        "name": "Graphics Design"
+    },
+    {
+        "id": "5",
+        "name": "Ruby"
+    },
+    {
+        "id": "6",
+        "name": "Digital Marketing"
+    }
+]
