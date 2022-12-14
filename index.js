@@ -19,6 +19,27 @@ app.get('/allcourses', (req, res) => {
     res.send(allCourses)
 })
 
+
+app.get("/category/:id", (req, res) => {
+    //Find data With Category Id
+
+    const id = req.params.id;
+    if (id == "7") {
+        res.send(allCourses);
+    } else {
+        const selectedCat = allCourses.filter((n) => n.cat_id === id);
+        res.send(selectedCat);
+    }
+
+});
+app.get("/courses/:id", (req, res) => {
+
+    //Find Course Detailed Data Upon Clicked
+    const id = req.params.id;
+    const selectedcourses = allCourses.filter((n) => n.course_id == id);
+    res.send(selectedcourses);
+});
+
 app.listen(port, () => {
     console.log('Server running on port', port);
 })

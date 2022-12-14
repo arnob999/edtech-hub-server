@@ -1,5 +1,6 @@
 [
     {
+        "cat_id": "1",
         "course_id": "1",
         "title": "JavaScript",
         "pic": "https://www.split.io/wp-content/uploads/2020/03/javascript-logo.png",
@@ -7,6 +8,7 @@
         "details": " JavaScript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages. It is an interpreted programming language with object-oriented capabilities."
     },
     {
+        "cat_id": "2",
         "course_id": "2",
         "title": "React Native",
         "pic": "https://clickysoft.com/wp-content/uploads/2022/02/React-native-Banner-min.png",
@@ -14,6 +16,7 @@
         "details": "React Native is great for mobile apps. It provides a slick, smooth and responsive user interface, while significantly reducing load time. It's also much faster and cheaper to build apps in React Native as opposed to building native ones, without the need to compromise on quality and functionality."
     },
     {
+        "cat_id": "3",
         "course_id": "3",
         "title": "Competitve Programming",
         "pic": "https://avatars.githubusercontent.com/u/72343371?s=280&v=4",
@@ -21,6 +24,7 @@
         "details": "Competitive programming is a mind sport usually held over the Internet or a local network, involving participants trying to program according to provided specifications. Contestants are referred to as sport programmers."
     },
     {
+        "cat_id": "4",
         "course_id": "4",
         "title": "Graphics Design",
         "pic": "https://adsbeemedia.com/wp-content/uploads/2022/07/graphic-design-1.png",
@@ -28,6 +32,7 @@
         "details": "Graphic design is a profession, academic discipline and applied art whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and of the fine arts."
     },
     {
+        "cat_id": "5",
         "course_id": "5",
         "title": "Learn Ruby Rails",
         "pic": "https://www.devstree.com/wp-content/uploads/2022/10/RUBY-ON-RAILS-2.png",
